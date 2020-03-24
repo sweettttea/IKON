@@ -65,5 +65,11 @@
     <image:image>
       <image:loc>http://IKON.com/images/placeholdersmall-crop-u1149.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://IKON.com/images/23726921.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://IKON.com/images/logo.png</image:loc>
+    </image:image>
   </url>
 </urlset>

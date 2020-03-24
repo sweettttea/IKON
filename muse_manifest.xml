@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IKON.com" resolutions="1x" timestamp="1585074095156">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IKON.com" resolutions="1x" timestamp="1585074613368">
   <folder name="css">
     <file name="site_global.css" crc="4185260426"/>
-    <file name="index.css" crc="93671216" ref="index"/>
+    <file name="index.css" crc="4214181192" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -118,6 +118,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="placeholder-u836-fr.jpg" crc="4191464027" ref="index"/>
+    <file name="23726921.jpg" crc="423090227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="3851865179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="58410639" seo="true" mt="1585071831155" redirect="true"/>
+  <file name="index.html" crc="417670701" seo="true" mt="1585074551261" redirect="true"/>
 </manifest>
