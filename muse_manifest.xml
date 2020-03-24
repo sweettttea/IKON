@@ -1,0 +1,123 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IKON.com" resolutions="1x" timestamp="1585074095156">
+  <folder name="css">
+    <file name="site_global.css" crc="4185260426"/>
+    <file name="index.css" crc="93671216" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="placeholder.jpg" crc="4051531941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="placeholdersmall-crop-u1010.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1022.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1034.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1046.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1058.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1070.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall.jpg" crc="4165998579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1090.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1088.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1086.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1092.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1094.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1096.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1143.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1141.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1139.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1145.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1147.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholdersmall-crop-u1149.jpg" crc="4045462697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon01.png" crc="4187546945" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon03.png" crc="3993242863" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon02.png" crc="424432916" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon05.png" crc="340789256" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon04.png" crc="3793358111" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon06.png" crc="3973752638" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-u836-fr.jpg" crc="4191464027" ref="index"/>
+  </folder>
+  <file name="index.html" crc="58410639" seo="true" mt="1585071831155" redirect="true"/>
+</manifest>
