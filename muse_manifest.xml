@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IKON.com" resolutions="1x" timestamp="1585358651873">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IKON.com" resolutions="1x" timestamp="1585360561476">
   <folder name="css">
     <file name="site_global.css" crc="4185260426"/>
-    <file name="index.css" crc="149798521" ref="index"/>
+    <file name="index.css" crc="3921436122" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -122,5 +122,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4037693147" seo="true" mt="1585358632723" redirect="true"/>
+  <file name="index.html" crc="4141845871" seo="true" mt="1585360544279" redirect="true"/>
 </manifest>
